@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524639132810",
+    "project_id": "chatting-bd528",
+    "storage_bucket": "chatting-bd528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524639132810:android:54874d277885b87eafa173",
+        "android_client_info": {
+          "package_name": "kr.ac.kumoh.s20150686.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524639132810-p2n23jbggls8g976f3oo5gkqaimmph3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8iyHp1w37bRPZRvu5fec4ZmCRoyrJuJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524639132810-p2n23jbggls8g976f3oo5gkqaimmph3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
